@@ -1,0 +1,3 @@
+ 2020-09-19 23:54:10,041 - DEBUG - Same, Toss = tails. Guess = tails
+ 2020-09-19 23:54:12,717 - DEBUG - Different, Toss = heads. Guess = tails
+ 2020-09-19 23:54:16,920 - DEBUG - Same, Toss = heads. Guess = heads

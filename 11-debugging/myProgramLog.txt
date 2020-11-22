@@ -1,0 +1,5 @@
+2020-09-19 15:05:40,371 - DEBUG - A debug message.
+2020-09-19 15:05:40,371 - INFO - Information about the code.
+2020-09-19 15:05:40,372 - WARNING - Warning for some problem.
+2020-09-19 15:05:40,372 - ERROR - Some error happened.
+2020-09-19 15:05:40,372 - CRITICAL - CRITICAL ERROR!
