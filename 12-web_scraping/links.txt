@@ -1,0 +1,4 @@
+https://regex101.com/r/S2CbwM/1
+https://docs.python.org/3/library/re.html
+https://stackoverflow.com/questions/27803503/get-html-using-python-requests
+https://www.w3schools.com/html/html_links.asp
