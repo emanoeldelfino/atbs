@@ -8,6 +8,7 @@ PyInputPlus==0.2.10
 pyperclip==1.8.1
 PySimpleValidate==0.2.12
 requests==2.24.0
+selenium==3.141.0
 Send2Trash==1.5.0
 soupsieve==2.0.1
 stdiomask==0.0.5
