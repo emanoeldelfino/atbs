@@ -1,25 +1,26 @@
 [[source]]
-name = "pypi"
 url = "https://pypi.org/simple"
 verify_ssl = true
-
-[dev-packages]
+name = "pypi"
 
 [packages]
+beautifulsoup4 = "==4.9.3"
 certifi = "==2020.6.20"
 chardet = "==3.0.4"
 idna = "==2.10"
+lxml = "==4.6.1"
 natsort = "==7.0.1"
 pyperclip = "==1.8.1"
 requests = "==2.24.0"
+selenium = "==3.141.0"
+soupsieve = "==2.0.1"
 stdiomask = "==0.0.5"
 urllib3 = "==1.25.10"
 PyInputPlus = "==0.2.10"
 PySimpleValidate = "==0.2.12"
 Send2Trash = "==1.5.0"
-beautifulsoup4 = "==4.9.3"
-lxml = "==4.6.1"
-soupsieve = "==2.0.1"
+
+[dev-packages]
 
 [requires]
-python_version = "3.8"
+python_version = "3.6"
