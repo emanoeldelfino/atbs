@@ -10,4 +10,3 @@ print()
 
 for cell_obj in sheet['B']:
 	print(cell_obj.value)
-
